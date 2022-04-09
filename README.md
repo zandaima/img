@@ -1,8 +1,12 @@
 # xuetong-assets
 CDN for xuetong assets
+
 对应git的路径
+
 https://github.com/zandaima/img/blob/master/xuetong/baijia.png
+
 需要转换成
+
 https://cdn.jsdelivr.net/gh/zandaima/img/xuetong/baijia.png
 
 
